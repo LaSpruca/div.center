@@ -1,0 +1,15 @@
+{
+  "name": "div.center",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laspruca/div.center",
+  "author": "Nathan Hare",
+  "license": "DWETFYW 2",
+  "private": false,
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
