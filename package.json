@@ -5,6 +5,10 @@
     "repository": "https://github.com/laspruca/div.center",
     "author": "Nathan Hare",
     "license": "WTFPL",
+    "keywords": [
+        "centering",
+        "divs"
+    ],
     "private": false,
     "scripts": {
         "build": "tsc",
